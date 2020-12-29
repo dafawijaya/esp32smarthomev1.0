@@ -1,6 +1,6 @@
 # esp32smarthomev1.0
 esp32 smart home v1.0 
-if u have a question about this project ,email me at @dafanur18@gmail.com
+if u have a question about this project ,email me at dafanur18@gmail.com
 
 https://www.bukalapak.com/p/elektronik/elektronik-lainnya/4346tge-jual-smart-home-berbasis-esp32?from=product_owner&product_owner=normal_seller
 
